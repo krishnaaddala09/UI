@@ -1,4 +1,4 @@
-# React Budget App
+# Expenses Tracker App
 
 To run:
 
